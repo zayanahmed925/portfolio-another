@@ -31,7 +31,7 @@ const Navbar = () => {
             <div className="flex items-center justify-between  px-3 md:px-24 py-3">
                 <div>
                     <Link to="/">
-                        <h1 className="text-2xl text-primary font-lobster">Mohammad Ali</h1>
+                        <h1 className="text-2xl text-primary font-serif">Zehadul Islam</h1>
                     </Link>
                 </div>
                 <div>
@@ -46,7 +46,7 @@ const Navbar = () => {
 
                         <a
                             className="inline-block ml-4"
-                            href="https://drive.google.com/file/d/1qVQ1OLO-5RxHy1rwbe5Ib9igCTfeO99f/view?usp=sharing"
+                            href="https://drive.google.com/file/d/1Audnj2KrRDs5HZO3bbN1NpQD0u7MB_Rq/view?usp=sharing"
                             target="blank"
                         >
                             <button className="primary-button">My Resume</button>

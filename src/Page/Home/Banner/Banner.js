@@ -12,23 +12,20 @@ const Banner = () => {
                 transition={{ duration: 1.5 }}
             >
                 <h2 className="text-gray-400 text-xl font-medium">Hello, I'm</h2>
-                <h1 className="text-4xl font-semibold mb-0">Mohammad Ali</h1>
-                <div className="my-4">
+                <h1 className="text-4xl font-semibold mb-0">Zehadul Islam</h1>
+                <h2 className="my-4 text-2xl text-primary font-bold">
                     <TypeAnimation
-                        className="text-2xl text-primary font-bold"
                         cursor={true}
                         sequence={[
-                            "A Front-end Developer",
+                            'Front-End Developer',
                             2000,
-                            "A React JS Developer",
-                            2000,
-                            "A Jr. Web Developer",
+                            'Full Stack Developer',
                             2000,
                         ]}
-                        wrapper="div"
+                        wrapper="h2"
                         repeat={Infinity}
                     />
-                </div>
+                </h2>
                 <p className="text-gray-400 max-w-md mb-6 font-medium">
                     I am Jr. Front-end Developer. I am very passionate to my work and
                     dedicated to explore New Tools And Technologies.
@@ -54,7 +51,7 @@ const Banner = () => {
                 animate={{ x: 0 }}
                 transition={{ duration: 1.5 }}
             >
-                <img src="https://i.ibb.co/rf89pDm/coding.png" alt="Mohammad Ali" />
+                <img src="https://i.ibb.co/dDwYKvN/about-animation-f8041093e7ecb1fe3bd0.gif" alt="Zehadul Islam" />
             </motion.div>
         </div>
     );
