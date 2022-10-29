@@ -21,6 +21,7 @@ const Navbar = () => {
         return {
             fontWeight: 500,
             color: isActive ? "#FF651C" : "white",
+
         };
     };
     return (

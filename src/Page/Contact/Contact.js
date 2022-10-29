@@ -134,21 +134,21 @@ const Contact = () => {
                     <h2 className="text-2xl font-medium">Contact Info</h2>
                     <div className="flex items-center my-6">
                         <FaUserAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaUserAlt>
-                        <h3 className="font-medium text-primary">Mohammad Ali</h3>
+                        <h3 className="font-medium text-primary">Md.Zehadul Islam Raju</h3>
                     </div>
                     <div className="flex items-center my-6">
                         <FaPhoneAlt className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaPhoneAlt>
-                        <h3 className="font-medium text-primary">+88 01884622861</h3>
+                        <h3 className="font-medium text-primary">+88 01621074325</h3>
                     </div>
                     <div className="flex items-center my-6">
                         <MdEmail className="text-3xl mr-8 hover:text-primary cursor-pointer duration-300"></MdEmail>
-                        <h3 className="font-medium text-primary">itsproali@gmail.com</h3>
+                        <h3 className="font-medium text-primary">zehadul925@gmail.com</h3>
                     </div>
                     <div className="flex items-center my-6">
                         <FaLocationArrow className="text-2xl mr-8 hover:text-primary cursor-pointer duration-300"></FaLocationArrow>
 
                         <h3 className="font-medium text-primary">
-                            Sarulia, Demra, Dhaka, Bangladesh - 1361
+                            mirpur,Dhaka,Bangladesh
                         </h3>
                     </div>
                     <div className="mt-8 flex items-center">
